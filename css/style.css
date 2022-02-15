@@ -54,6 +54,15 @@ main {
     gap: 5%;
 }
 
+.container-botao button {
+    width: 50%;
+    height: 40px;
+
+    text-transform: uppercase;
+
+
+}
+
 .container-botao-resultado {
     color: white;
     text-transform: uppercase;
